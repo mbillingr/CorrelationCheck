@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Correlation Check</string>
+    <string name="activity_main.info">Hi, this is the Correlation Check app.</string>
+    <string name="take_image">Take image</string>
+    <string name="mark_plot">Mark plot</string>
+    <string name="done">Done</string>
+</resources>

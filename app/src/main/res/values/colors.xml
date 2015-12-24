@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="plot_background">#EAEAF2</color>
+    <color name="plot_grid">#FFFFFF</color>
+    <color name="plot_color1">#4C72B0</color>
+    <color name="plot_color2">#55A868</color>
+    <color name="plot_color3">#C44E52</color>
+</resources>
